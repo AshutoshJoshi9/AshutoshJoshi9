@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Ashutosh, a 3rd-year undergraduate student at IIT Kharagpur.<br>I am developing  Machine Learning models to solve real-world issues, building a CubeSat, exploring hardware optimization using Verilog, actively working in FPGA development.<br>I am currently looking to collaborate on FPGA-related research projects, especially those involving image processing, hardware accelerators, or digital design, Machine learning projects, particularly in weakly-supervised learning, medical image segmentation, and generative models.<br>
+I am Ashutosh, a 4th-year undergraduate student at IIT Kharagpur.<br>I am developing  Machine Learning models to solve real-world issues, building a CubeSat, exploring hardware optimization using Verilog, actively working in FPGA development.<br>I am currently looking to collaborate on FPGA-related research projects, especially those involving image processing, hardware accelerators, or digital design, Machine learning projects, particularly in weakly-supervised learning, medical image segmentation, and generative models.<br>
 
 
 ## 🌐 Socials:
